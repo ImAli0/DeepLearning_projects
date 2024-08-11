@@ -75,10 +75,10 @@ The dataset used in this project is the [SMS Spam Collection Dataset](https://ww
 
 During training, the model's performance is tracked using accuracy and loss metrics. Below are the training results for 10 epochs:
 
-- **Final Training Accuracy**: 99.79%
-- **Final Validation Accuracy**: 98.15%
-- **Final Training Loss**: 0.0464
-- **Final Validation Loss**: 0.0945
+- **Final Training Accuracy**: 99.92%
+- **Final Validation Accuracy**: 99.08%
+- **Final Training Loss**: 0.0087
+- **Final Validation Loss**: 0.0433
 
 The model achieves a high level of accuracy in detecting spam messages.
 
